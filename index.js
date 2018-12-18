@@ -1,3 +1,4 @@
+rocess.env.NTBA_FIX_319 = 1;
 require('dotenv').load();
 const TelegramBot = require('node-telegram-bot-api');
 
